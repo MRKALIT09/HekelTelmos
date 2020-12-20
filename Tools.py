@@ -1,9 +1,7 @@
-#Coded By Zidan-ID\King Mr_Z17
-#YouTube Mr_Z17
-#Vortex Indonesia
+#Creator Bye MR_KALIT09
+#WHATSAAP 085277804293
+#Anonymous All Indonesia
 import os,sys,time
-
- # SILAHKAN COSTUMISASI SENDIRI YA BOSQ #
 
 def main():
     time.sleep(1)
